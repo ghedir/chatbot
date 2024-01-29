@@ -1,0 +1,29 @@
+/* styles.css */
+
+.response-container {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.response-container h2 {
+    font-size: 20px;
+    color: #333;
+}
+
+.response-container ul, .response-container ol {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+
+.response-container li {
+    list-style-type: disc;
+    margin-bottom: 5px;
+}
+
+.response-container p {
+    margin: 10px 0;
+}
